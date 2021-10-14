@@ -10,5 +10,7 @@ Open command prompt (cmd) or terminal
 4. cp .evn.example .env
 5. open this file .env edit inline 12 this name test or your database on MySQL
 6. php artisan key:generate
-7. php artisan migrate or Import file testdatabase.sql in your mySQL
+7. php artisan migrate 
+   OR 
+   Import file testdatabase.sql in your mySQL
 8. php artisan serve
