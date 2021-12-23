@@ -13,4 +13,5 @@ Open command prompt (cmd) or terminal
 7. php artisan migrate 
    OR 
    Import file testdatabase.sql in your mySQL
-8. php artisan serve
+8. php aritsan storage:link
+9. php artisan serve
